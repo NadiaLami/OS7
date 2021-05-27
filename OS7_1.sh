@@ -1,3 +1,2 @@
-ln file.sh fileS.sh
-ln -s file.sh fileSS.sh
-
+ln file1 hardlink1
+ln -s file1 symboliclink1
